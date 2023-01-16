@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "AC1030")(type "KiCad")(uri "${KIPRJMOD}/lib/AC1030.pretty")(options "")(descr ""))
+  (lib (name "nfc_lock")(type "KiCad")(uri "${KIPRJMOD}/nfc_lock.pretty")(options "")(descr ""))
+)
