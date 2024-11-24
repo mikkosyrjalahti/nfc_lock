@@ -13,4 +13,4 @@ then
   exit 0
 fi
 mv -f keys.db.new keys.db
-sudo restart keyserver
+sudo systemctl restart keyserver
